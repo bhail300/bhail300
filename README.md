@@ -1,7 +1,9 @@
 ### Hi there 👋
 - My name is Blen Haile
 
-- I am primarily a UI/UX Designer, but I also have knowledge in Front-end web development and Graphic Design.
+- I am currently a student in the last term of the Digital Design and Development diploma program at the British Columbia Institute of Technology.
+
+- I'm primarily a UI/UX Designer, but I also have knowledge in Front-end web development and Graphic Design.
 
 - I plan to delve into Back-end coding and possibly becoming a Full Stack Web Developer. 
 <!--
