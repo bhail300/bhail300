@@ -1,10 +1,11 @@
 
 
 <h1 align="center">
-  Hello, My Name is Blen haile 
+  Hello, My Name is Blen Haile 
 </h1>
 
-<hr/>
+
+<h2>About me</h2>
 
 - I am currently a student in the last term of the Digital Design and Development diploma program at the British Columbia Institute of Technology.
 
