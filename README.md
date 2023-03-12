@@ -6,6 +6,8 @@
 - I'm primarily a UI/UX Designer, but I also have knowledge in Front-end web development and Graphic Design.
 
 - I plan to delve into Back-end coding and possibly becoming a Full Stack Web Developer. 
+
+
 <!--
 **bhail300/bhail300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
