@@ -1,5 +1,10 @@
-### Hi there 👋
-- My name is Blen Haile
+
+
+<h1 align="center">
+  Hello, My Name is Blen haile 
+</h1>
+
+<hr/>
 
 - I am currently a student in the last term of the Digital Design and Development diploma program at the British Columbia Institute of Technology.
 
@@ -13,6 +18,7 @@
 
 Here are some ideas to get you started:
 
+### Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
