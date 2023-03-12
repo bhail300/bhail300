@@ -1,11 +1,18 @@
 
 
-<h1 align="center">
+<h2 align="center">
   Hello, My Name is Blen Haile 
-</h1>
+</h2>
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/blenbhaile/">
+    <img alt="linkedin bade" title="Blen Haile Linkedin Profile" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
 
-<h3>About me</h3>
+ 
+
+### About me
 
 - I am currently a student in the last term of the Digital Design and Development diploma program at the British Columbia Institute of Technology.
 
@@ -13,9 +20,12 @@
 
 - I plan to delve into back-end coding and possibly becoming a full stack web Developer. 
 
-<hr/>
+<br/>
 
 <h3>Coding Languages</h3>
+
+
+
 
 <!--
 **bhail300/bhail300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
