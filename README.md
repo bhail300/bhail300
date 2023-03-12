@@ -23,7 +23,7 @@
 <h2> ✨ Coding Languages</h2>
 
 <p>
-  <a href=""><img alt="Next.js" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">  
+  <a href="https://nextjs.org/"><img alt="Next.js" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">  
 </p>
 
 
