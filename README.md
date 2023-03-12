@@ -5,14 +5,17 @@
 </h1>
 
 
-<h2>About me</h2>
+<h3>About me</h3>
 
 - I am currently a student in the last term of the Digital Design and Development diploma program at the British Columbia Institute of Technology.
 
-- I'm primarily a UI/UX Designer, but I also have knowledge in Front-end web development and Graphic Design.
+- I'm primarily a UI/UX Designer, but I also have knowledge in front-end web development and graphic design.
 
-- I plan to delve into Back-end coding and possibly becoming a Full Stack Web Developer. 
+- I plan to delve into back-end coding and possibly becoming a full stack web Developer. 
 
+<hr/>
+
+<h3>Coding Languages</h3>
 
 <!--
 **bhail300/bhail300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
