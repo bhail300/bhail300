@@ -1,7 +1,7 @@
 
 
 <h2 align="center">
-  Hello, My Name is Blen Haile 
+  Hello 👋 My Name is Blen Haile 
 </h2>
 
 <div align="center">
@@ -10,17 +10,17 @@
   </a>
 </div>
 
-<h2>About me</h2>
+<h2> ⚡ About me</h2>
 
-- I am currently a student in the last term of the Digital Design and Development diploma program at the British Columbia Institute of Technology.
+- 🌱 I am currently a student in the last term of the Digital Design and Development diploma program at the British Columbia Institute of Technology.
 
-- I'm primarily a UI/UX Designer, but I also have knowledge in front-end web development and graphic design.
+- 🤔 I'm primarily a UI/UX Designer, but I also have knowledge in front-end web development and graphic design.
 
-- I plan to delve into back-end coding and possibly becoming a full stack web Developer. 
+- 🔭 I plan to delve into back-end coding and possibly becoming a full stack web Developer. 
 
 <br/>
 
-<h2>Coding Languages</h2>
+<h2> ✨ Coding Languages</h2>
 
 <p>
   <a href=""><img alt="Next.js" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
