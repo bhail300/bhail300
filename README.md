@@ -10,9 +10,7 @@
   </a>
 </div>
 
- 
-
-### About me
+<h2>About me</h2>
 
 - I am currently a student in the last term of the Digital Design and Development diploma program at the British Columbia Institute of Technology.
 
@@ -22,8 +20,11 @@
 
 <br/>
 
-<h3>Coding Languages</h3>
+<h2>Coding Languages</h2>
 
+<p>
+  <a href=""><img alt="Next.js" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"
+</p>
 
 
 
