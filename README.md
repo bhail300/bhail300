@@ -1,7 +1,7 @@
 
 
 <h2 align="center">
-  Hello 👋 My Name is Blen Haile 
+  Hello! 👋 My name is Blen Haile 
 </h2>
 
 <p align="center">
