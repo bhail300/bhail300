@@ -4,10 +4,10 @@
   Hello 👋 My Name is Blen Haile 
 </h2>
 
-<div align="center">
-  <a href="https://blenhaile.ca/"><img alt="Blen Haile portfolio site badge" title="Blen Haile portfolio site badge" src="https://img.shields.io/static/v1?label=portfolio&message=Blen%20Haile%27s%20Portfolio%20site&color=purple"></a>
-  <a href="https://www.linkedin.com/in/blenbhaile/"><img alt="Linkedin badge" title="Blen Haile Linkedin Profile" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white/"></a>
-</div>
+<p align="center">
+  <a href="https://blenhaile.ca/"><img alt="Blen Haile portfolio site badge" title="link to Blen Haile's portfolio site" src="https://img.shields.io/static/v1?label=Portfolio&message=Blen%20Haile%27s%20Portfolio%20site&color=purple"></a>
+  <a href="https://www.linkedin.com/in/blenbhaile/"><img alt="Linkedin badge" title="link to Blen Haile's Linkedin Profile" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white/"></a>
+</p>
 
 <h2>💬 About me</h2>
 
@@ -22,9 +22,9 @@
 <h2>✨ Languages & Frameworks</h2>
 
 <p>
-  <a href=""><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
+  <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS"src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
- <a href=""><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   
   <a href="https://reactjs.org/"><img alt="React JS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
   <a href="https://nextjs.org/"><img alt="Next.js" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"></a>
