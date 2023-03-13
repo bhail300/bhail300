@@ -13,7 +13,7 @@
   </a>
 </div>
 
-<h2> ⚡ About me</h2>
+<h2>💬 About me</h2>
 
 - 🌱 I am currently a student in the last term of the Digital Design and Development diploma program at the British Columbia Institute of Technology.
 
@@ -23,7 +23,7 @@
 
 <br/>
 
-<h2> ✨ Languages & Frameworks</h2>
+<h2>✨ Languages & Frameworks</h2>
 
 <p>
   <a href=""><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
@@ -33,8 +33,6 @@
   <a href="https://reactjs.org/"><img alt="React JS" target="_blank" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
   <a href="https://nextjs.org/"><img alt="Next.js" target="_blank" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"></a>
 </p>
-
-
 
 
 
