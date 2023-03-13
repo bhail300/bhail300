@@ -5,12 +5,8 @@
 </h2>
 
 <div align="center">
-  <a href="https://blenhaile.ca/">
-    <img alt="Blen Haile portfolio site badge" title="Blen Haile portfolio site badge" target="_blank" src="">
-  </a>
-  <a href="https://www.linkedin.com/in/blenbhaile/">
-    <img alt="linkedin bade" title="Blen Haile Linkedin Profile" target="_blank" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/>
-  </a>
+  <a href="https://blenhaile.ca/"><img alt="Blen Haile portfolio site badge" title="Blen Haile portfolio site badge" target="_blank" src="https://img.shields.io/static/v1?label=portfolio&message=Blen%20Haile%27s%20Portfolio%20site&color=purple"></a>
+  <a href="https://www.linkedin.com/in/blenbhaile/"><img alt="Linkedin badge" title="Blen Haile Linkedin Profile" target="_blank" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white/"></a>
 </div>
 
 <h2>💬 About me</h2>
