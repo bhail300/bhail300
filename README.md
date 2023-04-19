@@ -11,7 +11,7 @@
 
 <h2>💬 About me</h2>
 
-- 🌱 I am currently a student in the last term of the Digital Design and Development diploma program at the British Columbia Institute of Technology.
+- 🌱 I am currently a student in my last term of the Digital Design and Development diploma program at the British Columbia Institute of Technology.
 
 - 🤔 I'm primarily a UI/UX Designer, but I also have knowledge in front-end web development and graphic design.
 
