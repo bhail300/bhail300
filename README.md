@@ -11,11 +11,9 @@
 
 <h2>💬 About me</h2>
 
-- 🌱 I am currently a student in my last term of the Digital Design and Development diploma program at the British Columbia Institute of Technology.
+- 🌱 I'm a recent graduate of the British Columbia Institute of Technology(BCIT) and earned my diploma from the Digital Design & Development program.
 
 - 🤔 I'm primarily a UI/UX Designer, but I also have knowledge in front-end web development and graphic design.
-
-- 🔭 I plan to delve into back-end coding and possibly becoming a full stack web Developer. 
 
 <br/>
 
